@@ -1,10 +1,3 @@
-## ActiveRecord Boilerplate
+My macron_email_data_analysis repo was kind of a big name for my coding level at the time
 
-This is a starting point for the Activerecord Basics lecture using sqlite. During the lecture, you need to:
-
-- Clone The project
-- Run `bundle install`
-- Explain `rake -T`
-- Explain `config/database.yml`
-- Run `rake db:create` / `rake db:drop`
-- Create and run 2 migrations
+I mean I'm still shit but here is a better version of the cheese finder
